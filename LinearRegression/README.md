@@ -1,1 +1,1 @@
-First Project Done: Univariate Linear Regression
+October 9th, 2020: Univariate Linear Regression
