@@ -1,1 +1,0 @@
-function [theta, costs] = gradientDescent(X, y, theta, 
